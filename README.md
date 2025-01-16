@@ -24,11 +24,11 @@
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/username/project-name.git  
+   git clone https://github.com/BenjaminLawani/PromoSpark.git  
    ```  
 2. Navigate to the project directory:  
    ```bash  
-   cd project-name  
+   cd PromoSpark
    ```  
 3. Open the project in your preferred IDE (e.g., Visual Studio, Rider).  
 
@@ -49,7 +49,7 @@
    ```bash  
    dotnet run  
    ```  
-2. Access the application through [application link or console instructions].  
+2. Access the Swagger Docs locally through localhost:4413/swagger.  
 
 ---
 
